@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424659730687",
+    "firebase_url": "https://siragu-shopping.firebaseio.com",
+    "project_id": "siragu-shopping",
+    "storage_bucket": "siragu-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424659730687:android:4d2901da81828725df8cca",
+        "android_client_info": {
+          "package_name": "siragu.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424659730687-v65cfq13q0jalo1minlbsle31e82cpva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "siragu.shopping",
+            "certificate_hash": "de210f42765d2cd1e64cc830004102aacdeb1e83"
+          }
+        },
+        {
+          "client_id": "424659730687-ri6qccqn9n4ui4a9jkqibvviansd3ukn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYET0WFl9jAIqdzbKZkOeOeDjyM2F1z_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424659730687-ri6qccqn9n4ui4a9jkqibvviansd3ukn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
